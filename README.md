@@ -9,8 +9,7 @@ This project uses the Gradle build system. To build this project, use "Import Pr
     * targetSdkVersion 30
     * Android Studio Version 4.0.1
 # Screenshots
-<img src="https://user-images.githubusercontent.com/52491316/109078851-b4195400-7706-11eb-99f1-2509c9d14660.png" width="200" height="400" />
-![Screenshot_1614208306](https://user-images.githubusercontent.com/52491316/109078851-b4195400-7706-11eb-99f1-2509c9d14660.png) 
+<img src="https://user-images.githubusercontent.com/52491316/109078851-b4195400-7706-11eb-99f1-2509c9d14660.png" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/52491316/109080802-d9f42800-7709-11eb-9cea-f998569cad46.png" width="200" height="400" /> 
 ![Screenshot_1614208553](https://user-images.githubusercontent.com/52491316/109080802-d9f42800-7709-11eb-9cea-f998569cad46.png)
 ![Screenshot_1614208565](https://user-images.githubusercontent.com/52491316/109080860-f3956f80-7709-11eb-8c7a-dd0116705c1b.png)
 ![Screenshot_1614208581](https://user-images.githubusercontent.com/52491316/109080889-00b25e80-770a-11eb-9886-f68984c1a904.png)
